@@ -1,0 +1,11 @@
+
+esquid:S2142Ş"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8°–©ö+
+\squid:S1854°"8Remove this useless assignment to local variable "temp".(ìÛÛÿÿÿÿÿÿ8Ô·ÌŸ‘+
+Isquid:S19482"+Make "borderOne" transient or serializable.(¥ÏÍ½8­ Ô÷+
+esquid:S1192Î"FDefine a constant instead of duplicating this literal "Error" 3 times.(ØÁé 8ò“«Ê“+
+osquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(´á½Î
+qsquid:S1192Î"RDefine a constant instead of duplicating this literal "Thread Interupted" 3 times.(ØÁé 8ò“«Ê“+
+esquid:S2142ğ"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‡ş¹Á+
+\squid:S1854­"8Remove this useless assignment to local variable "temp".(Ş¦û¶ÿÿÿÿÿ8ÉÙÈŸ‘+
+esquid:S2142Í"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8üú–À+
+Ksquid:S19481"(Make "border" transient or serializable.(„Öù‚øÿÿÿÿ8ÊÒÏ÷+
